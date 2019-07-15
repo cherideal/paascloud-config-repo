@@ -58,7 +58,7 @@ paascloud:
     interceptor:
       enable: true
   zk:
-    zkAddressList: paascloud-zk-01:32809,paascloud-zk-02:32812,paascloud-zk-03:32806
+    zkAddressList: paascloud-zk-01:2181,paascloud-zk-02:2182,paascloud-zk-03:2183
   qiniu:
     key:
       accessKey: yourQiniuAccessKey
